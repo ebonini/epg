@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="live" tvg-id="Cultura.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEX2DcaN0I4WidwNBAnlPYcsErIAHFCJ8BqHLFiTK3-LH52CYkn3SOFTnf31-WQpWYL9gKDMATcchsSuBC0O29hAwDi0lgTyAaGeRrpOOnIlnghpanj1lkjIDqu0nrUxK11zeDDDyY4piBUDGvmchz7c=w686-h605-no", Cultura
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/42903.ts
+#EXTINF:-1 tvg-type="live" tvg-id="RedeBrasil.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEXqbVp1jS0qSMcC0QqgLsCOvyG2V6Qe5F2T32tus4IlWWrxZMZ66iKO7GhJ6YF1G6M1i51IAG0g5IQOdDVDa6fnS2-Ui2x8OaNiCVi1SMoZTRE9pmhxIOibtnRIOz7-7lpyPCCeCHdyF_lv2hNc7A8O=w508-h170-no", Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w813161086.m3u8
+#EXTINF:-1 tvg-type="live" tvg-id="Sbt.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEVxtPhhHWdPNp8oSPu4YCuwfKV4RnJp6fxsTKaqHWqCUKRAZuggqVu8Af81em_YgnGP17W3TVmOx5Bba2h9oOC16b24EdV796GjZpRA8vViHR9ZbS2UirGan-R1z-sh49BzjrIQtK2JAugbR3iKNrV5=s661-no", SBT 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/91320.ts
+#EXTINF:-1 tvg-type="live" tvg-id="GloboSP.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AJFCJaVPBW06R8n7lcvbVUHVbeMyDbO3rZxcTVpZWVoI5XbDQvobWjHgzVUhqthFkgN4bR1ngOCc6yo_KZ8YJKowgUhj1MzQmcw5TIe6swntXsyX9boZVRWUfER6_195AMhkhqDwEA_SMtqaTc6OdnmIUc7p=w267-h270-s-no", Globo SP
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/68050.ts
+#EXTINF:-1 tvg-type="live" tvg-id="GloboRJ.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AJFCJaVPBW06R8n7lcvbVUHVbeMyDbO3rZxcTVpZWVoI5XbDQvobWjHgzVUhqthFkgN4bR1ngOCc6yo_KZ8YJKowgUhj1MzQmcw5TIe6swntXsyX9boZVRWUfER6_195AMhkhqDwEA_SMtqaTc6OdnmIUc7p=w267-h270-s-no", Globo Rio 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/38425.ts
+#EXTINF:-1 tvg-type="live" tvg-id="RecordTV.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEX_XLk4wEiPQg2LosSiMCpCYdUnQwu15dx1XgfrsxXYwxgjsuy_v-_a_he52HbKS35pArvHXqkOkAzfCLGC-z69BpOinr7I9emgiEbi99P8KPh3VoQqWZtYcH2fBfDTjQ71Z-d6DVwM4VKqxn98drXO=w550-h547-no", RecordTV SP
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/62998.ts
+#EXTINF:-1 tvg-type="live" tvg-id="RecordTV.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEX_XLk4wEiPQg2LosSiMCpCYdUnQwu15dx1XgfrsxXYwxgjsuy_v-_a_he52HbKS35pArvHXqkOkAzfCLGC-z69BpOinr7I9emgiEbi99P8KPh3VoQqWZtYcH2fBfDTjQ71Z-d6DVwM4VKqxn98drXO=w550-h547-no", RecordTV RJ 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/41521.ts
+#EXTINF:-1 tvg-type="live" tvg-id="ComedyCentral.br" group-title="Filmes & Séries" tvg-logo="https://lh3.googleusercontent.com/pw/AMWts8DUA0elg8AJbn4dSNqjYRjikpmT_rpy-D9Ch8hCjfJ7Mgp3SPxTnxc38XM-g1o7D7m1-bm8T83oaKZnbu7I3tS2k8mgdr5CkerDd-Su4RYQKqzHBwHqLo56wlXO4KbuJL6UEIB63QxISsKlHOQgG-sE=w360-h200-no", Comedy Central 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/36925.ts
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="1" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", O Navio
+https://3.bp.blogspot.com/Ue0BCaahCTXGCRzM3c887plCM78aKFDh6duT3MZbzImI5-_ehH-Ko0bCGHlx27pVz99HaDpX674TzujNqdCTtIfBLjPzHKFHFzC7tYRkE26bm6BFPj_5BeARHDc-LsoF7ADB_crEkA=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="2" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 2
+https://3.bp.blogspot.com/5BJOUvHF5EJ1Egwszhe1phxfPjNznbAWLAjYSIdpUyVmv_Y-JB7jbD61uTPmnPaAZATOYMfD7WxTl9GDOqR9JjFC0bKc16AE55OA-x8ROgSlqLFsC4NqCffvTjD_yqjALNMQekA8rQ=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="3" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 3
+https://3.bp.blogspot.com/cXBEeCBTDASKfeQgoHLnx2mAH4odclNskeEO2c1FZkLxuTfD5-02vO7E-j_0oiaEiXEnwd8llkweg9R6TMSnrLdfkls2O6Smfvz_9Cp3UOtO56gdttcZnUqSpvysb73SEFYZrwTJlA=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="4" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 4
+https://3.bp.blogspot.com/WyjK-53iwJBLaSI0iwqhULHVsoMcwKmbxKgLOuWV3OWMjipXE7xtl_fClCp46L_ypElvcdXx190gr2LdYGjZwp1w-NkKhKlIhG2rGJe3Zw2xczXH7zuKTTiS2tY0INyYAAH7oKykVQ=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="5" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 5
+https://3.bp.blogspot.com/aV3YTVpcjdZoRWq4MM9JnZktD6yA32ElKeRONZVF7I8MFzep1_KjgXmeYArvZyNOG0pGn1eo9X38O4kI_7dmzeKfkQtSTpAjg6v8hKUu4K02LRFKqLtqFRCw2AxJPVZkgE1iNPQnhw=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="6" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 6
+https://3.bp.blogspot.com/1OLQSkS3Bhb8hMQ9g0w2235AQlLk-tdsSupyx0SJGZD72Or8AslrgMdO1lsqiCyLvIFQZgmX2X37XgPK2VSNdoEa_qqxTQ8Qc7UQQNHkNCjJvR2wc2VyNBwcdPUamxYCkkAWE5OQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="7" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 7
+https://3.bp.blogspot.com/pzGsLzg0lSTsx6zaIydmeRyn3n7G34c2qf-ERZ4m6f4zHVImyZKRpUCEmlx6KEHz_1_49OhBohKQ_DMwgIlnRCXquMY74ENLQyL4X0eCQPTF7dqhfXG-51MvJObU3zlkX1HkalHskQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="8" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 8
+https://3.bp.blogspot.com/TyJZbdgHIThjVgDaCwpEKAYRP7XEYKusHUP8DDUKKaxfA6UAiz3-iOX8wfJrXWpmvPifSCSrRNR-tUhuUGGEx6h-ot-HJoXT9HaTl3Wk8yVQiACxN2qcuI13YnoMiA2-33IV_I2z7g=m22
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n9EIRKUY8G0jHqgreYIueWeqwMW.jpg", O Pior Vizinho do Mundo
+https://3.bp.blogspot.com/oey7fdEA6P6noKcseY96zbS2iNVmrRN9DOMl53NOwA2K9dYHzM3HUmtzxK0pIWQnpIWvjygKUnwizZ16JLJXCIoXMq7XAE4GGaZVrc0pQH-ygalMDvRnHX8QS07gurrSZBqqrQMl=m37
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg", Alerta Máximo
+https://3.bp.blogspot.com/4eJkWNhc39fYiud9mqB6zrPLRro-4PrpnhiZoNGkoHaRiW6s95yy309TH4wGMzIBaszndRumXxoy0w1oTyksO_yIEZ7jLG4PnOe0mO4TEYtjBm9mCWNCLxOYEy2JfwfABZ_3yWnx=m37
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg", M3GAN
+https://3.bp.blogspot.com/2JTLuojSpBmuiQaPU4UULFZldLlxi_EuNjGKvpnzs4LK-Hssw1ZhzQRmWuIkDOAkZtczF359pmzeP3LZxKH-2UntIopN5YBaGC9uOJ179s4VEqYgDrSaSxh64h3bGmBHuZhooU4r=m37
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg", Na Sua Casa ou na Minha?
+https://3.bp.blogspot.com/hezNbtoLX0tjqcEMzAm1oBjhrOr5mHkHhtcB1KlSKUAkUus3FLnYF-m32VqtuS1kePodL24yN8ORIZZ4ilGNKdQsBqJZalfZSrhtcMsC2f1UFGdoQk7DZv3_Tc4x5_fI7O4IZKyt=m37
