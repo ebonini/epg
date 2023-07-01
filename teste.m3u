@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="live" tvg-id="Tvcultura.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEX2DcaN0I4WidwNBAnlPYcsErIAHFCJ8BqHLFiTK3-LH52CYkn3SOFTnf31-WQpWYL9gKDMATcchsSuBC0O29hAwDi0lgTyAaGeRrpOOnIlnghpanj1lkjIDqu0nrUxK11zeDDDyY4piBUDGvmchz7c=w686-h605-no", TV Cultura
+http://conexaoonline.top:80/7366333/gdtf2ij/312
+#EXTINF:-1 tvg-type="live" tvg-id="RedeBrasil.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEXqbVp1jS0qSMcC0QqgLsCOvyG2V6Qe5F2T32tus4IlWWrxZMZ66iKO7GhJ6YF1G6M1i51IAG0g5IQOdDVDa6fnS2-Ui2x8OaNiCVi1SMoZTRE9pmhxIOibtnRIOz7-7lpyPCCeCHdyF_lv2hNc7A8O=w508-h170-no", Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w813161086.m3u8
+#EXTINF:-1 tvg-type="live" tvg-id="Sbt.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEVxtPhhHWdPNp8oSPu4YCuwfKV4RnJp6fxsTKaqHWqCUKRAZuggqVu8Af81em_YgnGP17W3TVmOx5Bba2h9oOC16b24EdV796GjZpRA8vViHR9ZbS2UirGan-R1z-sh49BzjrIQtK2JAugbR3iKNrV5=s661-no", SBT 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/91320.ts
+#EXTINF:-1 tvg-type="live" tvg-id="GloboSP.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AJFCJaVPBW06R8n7lcvbVUHVbeMyDbO3rZxcTVpZWVoI5XbDQvobWjHgzVUhqthFkgN4bR1ngOCc6yo_KZ8YJKowgUhj1MzQmcw5TIe6swntXsyX9boZVRWUfER6_195AMhkhqDwEA_SMtqaTc6OdnmIUc7p=w267-h270-s-no", Globo SP
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/68050.ts
+#EXTINF:-1 tvg-type="live" tvg-id="GloboRJ.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AJFCJaVPBW06R8n7lcvbVUHVbeMyDbO3rZxcTVpZWVoI5XbDQvobWjHgzVUhqthFkgN4bR1ngOCc6yo_KZ8YJKowgUhj1MzQmcw5TIe6swntXsyX9boZVRWUfER6_195AMhkhqDwEA_SMtqaTc6OdnmIUc7p=w267-h270-s-no", Globo Rio 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/38425.ts
+#EXTINF:-1 tvg-type="live" tvg-id="RecordTV.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEX_XLk4wEiPQg2LosSiMCpCYdUnQwu15dx1XgfrsxXYwxgjsuy_v-_a_he52HbKS35pArvHXqkOkAzfCLGC-z69BpOinr7I9emgiEbi99P8KPh3VoQqWZtYcH2fBfDTjQ71Z-d6DVwM4VKqxn98drXO=w550-h547-no", RecordTV SP
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/62998.ts
+#EXTINF:-1 tvg-type="live" tvg-id="RecordTV.br" group-title="TV Aberta" tvg-logo="https://lh3.googleusercontent.com/pw/AL9nZEX_XLk4wEiPQg2LosSiMCpCYdUnQwu15dx1XgfrsxXYwxgjsuy_v-_a_he52HbKS35pArvHXqkOkAzfCLGC-z69BpOinr7I9emgiEbi99P8KPh3VoQqWZtYcH2fBfDTjQ71Z-d6DVwM4VKqxn98drXO=w550-h547-no", RecordTV RJ 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/41521.ts
+#EXTINF:-1 tvg-type="live" tvg-id="ComedyCentral.br" group-title="Filmes & Séries" tvg-logo="https://lh3.googleusercontent.com/pw/AMWts8DUA0elg8AJbn4dSNqjYRjikpmT_rpy-D9Ch8hCjfJ7Mgp3SPxTnxc38XM-g1o7D7m1-bm8T83oaKZnbu7I3tS2k8mgdr5CkerDd-Su4RYQKqzHBwHqLo56wlXO4KbuJL6UEIB63QxISsKlHOQgG-sE=w360-h200-no", Comedy Central 
+http://tv.newurl.live/live/eduardobonini/39kwskw2f8/36925.ts
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="1" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", O Navio
+https://3.bp.blogspot.com/Ue0BCaahCTXGCRzM3c887plCM78aKFDh6duT3MZbzImI5-_ehH-Ko0bCGHlx27pVz99HaDpX674TzujNqdCTtIfBLjPzHKFHFzC7tYRkE26bm6BFPj_5BeARHDc-LsoF7ADB_crEkA=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="2" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 2
+https://3.bp.blogspot.com/5BJOUvHF5EJ1Egwszhe1phxfPjNznbAWLAjYSIdpUyVmv_Y-JB7jbD61uTPmnPaAZATOYMfD7WxTl9GDOqR9JjFC0bKc16AE55OA-x8ROgSlqLFsC4NqCffvTjD_yqjALNMQekA8rQ=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="3" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 3
+https://3.bp.blogspot.com/cXBEeCBTDASKfeQgoHLnx2mAH4odclNskeEO2c1FZkLxuTfD5-02vO7E-j_0oiaEiXEnwd8llkweg9R6TMSnrLdfkls2O6Smfvz_9Cp3UOtO56gdttcZnUqSpvysb73SEFYZrwTJlA=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="4" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 4
+https://3.bp.blogspot.com/WyjK-53iwJBLaSI0iwqhULHVsoMcwKmbxKgLOuWV3OWMjipXE7xtl_fClCp46L_ypElvcdXx190gr2LdYGjZwp1w-NkKhKlIhG2rGJe3Zw2xczXH7zuKTTiS2tY0INyYAAH7oKykVQ=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="5" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 5
+https://3.bp.blogspot.com/aV3YTVpcjdZoRWq4MM9JnZktD6yA32ElKeRONZVF7I8MFzep1_KjgXmeYArvZyNOG0pGn1eo9X38O4kI_7dmzeKfkQtSTpAjg6v8hKUu4K02LRFKqLtqFRCw2AxJPVZkgE1iNPQnhw=m37
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="6" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 6
+https://3.bp.blogspot.com/1OLQSkS3Bhb8hMQ9g0w2235AQlLk-tdsSupyx0SJGZD72Or8AslrgMdO1lsqiCyLvIFQZgmX2X37XgPK2VSNdoEa_qqxTQ8Qc7UQQNHkNCjJvR2wc2VyNBwcdPUamxYCkkAWE5OQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="7" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 7
+https://3.bp.blogspot.com/pzGsLzg0lSTsx6zaIydmeRyn3n7G34c2qf-ERZ4m6f4zHVImyZKRpUCEmlx6KEHz_1_49OhBohKQ_DMwgIlnRCXquMY74ENLQyL4X0eCQPTF7dqhfXG-51MvJObU3zlkX1HkalHskQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="1899" tvg-serie="1899-1" tvg-season="1" tvg-episode="8" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg" group-title="Netflix", Episódio 8
+https://3.bp.blogspot.com/TyJZbdgHIThjVgDaCwpEKAYRP7XEYKusHUP8DDUKKaxfA6UAiz3-iOX8wfJrXWpmvPifSCSrRNR-tUhuUGGEx6h-ot-HJoXT9HaTl3Wk8yVQiACxN2qcuI13YnoMiA2-33IV_I2z7g=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="1" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 01
+https://3.bp.blogspot.com/YqpncEpvfPmJh9Qi6--7gEiimsHNmpnGtPQbyOsK868fS07TLtEfYRsrgWbLmWOhhsZfwsHH3VtvI57Fbk9XfkVQSOgkbBmz0DTTF1egh5VpVdWTWIRu56rmuVMgBa0Uwit6Gb9bcw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="2" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 02
+https://3.bp.blogspot.com/IbH9XhNGj1a11bN-6q-I3rQDPBfMLZpE9A2Tb2yY-bBGnQlDeCG7Kos9gM0SAWUy_Z63woE6QSz8o_dUwQ8VZmLCL8KDi0trbprKnlK7UmOisXxn2o7jYnsZcx-apf4poaCChj1ABw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="3" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 03
+https://3.bp.blogspot.com/Gze72aIyX9m_8JtEpzeGkwXGRgv7niDiOif4dsyzOb6K3jJojuLctVpn63D-o1uytrOdc4Onbh4gsWpWph1H0kffvhyy9gd2BYyjb_uASqXgd6Oya_-zJKOkdVYTX33DSPepKb7nhg=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="4" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 04
+https://3.bp.blogspot.com/QN_LuAJWsBtU99-K5T-B5F5q75bif-EEWmBKXPGVar3VlZ9afJDqgtKz3hhGIKFgpORKgqLBhBfZ5QG1_OfdLNsu9PuYq_vwQbxXMerUYxjvNZMZ1A6fhSOLyQVi9J7WEkra-eTCmw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="5" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 05
+https://3.bp.blogspot.com/JIRTzWR_kEm6xvkThatfyZK2gc6WyzYHxONUBlHTXkDMq2AaNWB6X5VeS6x6aw1yfp03HEUGx_KExuCWnGFCc0b3b0DOa13cEsDTIPF1JhyIFSwGIH7ujShZMKPJ_cPl5w6u1o0Z2A=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="6" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 06
+https://3.bp.blogspot.com/qCCmMCpW9ll3IIpTViP8zht558IqRGIz7H2ak0EY-1BiXLeZbQ71j7sMO0ItBxGY1cZK8ZWSQYDItjp0ql8B6VchzR6DyeHddwjeFoI9CFGpWMTlKTnK31uFEME1TK1tsDQhYCzIWA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="7" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 07
+https://3.bp.blogspot.com/02faw9CwCKJY2aqTwpJSYEdim4YK7uJ-wDsPqi6P0J9cGjgJgxJAhe1mUUJT575iooUKiMOs4PcQACixPbrI7-lKoBckLgdpkhuVKAMIju7AAhgdb39H70MmZeDds18D1O0EtnIjIQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="8" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 08
+https://3.bp.blogspot.com/7O17xhA459VSHHiT4Z2TD71wLJuSYmcJHmHFOi0p4PC14_zGUk1SCQFzrXoviHW9biZAfbG_pWubM6fkTBxF3YNrR1CKUnsGzxFQEanL77VcKD56qLkT_wCASkWQ3KRdWJGfN_l-gg=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="9" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 09
+https://3.bp.blogspot.com/9kcd9nkppokGiHtcjUXfF6RV1tiGIwT_dmxebB5k0uKgRVd-kH3CmUzB6nqtuayodddlmAZowtKPtWHOxDzVV2y0joi3zZeGez734zsKNDhs6Rec3OZEH7FARP3ei1pFDMydQcpi8A=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="10" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 10
+https://3.bp.blogspot.com/mXNHf7IycEHKYbcREz7efpIjZTal78OQZGoNakIjo7zxlnNPuzNzoadVGjsZ0lBN1otHKB0gCdeBfHRjNxO-i45IuWKRLbNL5m49W6a9EfgyrlybjkdVPeUHrNuD2_rEZ2yYy3p_-A=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="11" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 11
+https://3.bp.blogspot.com/COIzR010aWvGfYD9uG5RpOzXg7GHj2Iis6_ymnfvTS4W03fis5Tkq1ZXsYDZHA0ZICIvtLPUpEEIC7zAvVil0bMpBr6a3Oh2aXHIqcHihPMq-EzCvvJBjAY4a3mf0pCBpANp-P2ueg=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="12" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 12
+https://3.bp.blogspot.com/xFpXoAX5okTkjKVbZTjd4j2iOIYNhZOvz3FMByjTdlTxSfuvL3rbT-90o8gY36-pTppSSSxdAjeiI-O5bGP_hLMydF51EJTds1Egc8lu5Q3tHbEvGMo4_casI13U5CjQvsw0blB7pw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="13" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 13
+https://3.bp.blogspot.com/t5ENLORThjw8nDm0ro3ml7fCs4sSBta6sgE3lt8n76a3xTxpFk5B31HUoxtjjOXAITcGLJIed_xcm8X_-DyacRY8MKKWBdUABFIak0EC_Wwao3nl9aKi80WFy6tVJuuvAVVewosUOQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="14" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 14
+https://3.bp.blogspot.com/hZiZLOniylEayTcnM4x3sUOgxP2-xH1v8Zjk5yC3KJPL6uX0L0eOp2Xs34-5FBq_SMi5kdDzXzXxiFQ4U6iPUo2yqvvKTAAQ_6FLwQHoPQMQCXH4oaqkpXRstFffAQSPUdllEsf25Q=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="15" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 15
+https://3.bp.blogspot.com/m9ajuJyuKCGzIspIdV46m4BLaWkDGxaiCFT-vkUcpAGd6jELtHWixPcZkFkf-RxT-1T-uKdE9KHwFv_kpm2zCm-7GvyoppL4TJx788rKCl3EqvZcvacYYV9WvAwU-5yy5gXfJR74iw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="16" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 16
+https://3.bp.blogspot.com/T4Xibc5lcEGVFyJhbK51HOj3WMXOW7ga1xXVpY_itNADJQt93BJZvrxkIiwsUvCqOSUHDgsrVjTD2_GKR8XE_qJ-MBHajvhhLf2_dxA9_1NcQFGIx-bIa3CS-Wh5FE-8tSnxI3ZquQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="17" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 17
+https://3.bp.blogspot.com/AjuRSNJwD1duCKuwavg24Ps1C7nEXp-NqVdDFD-C9gEJI7KaiK6FteN87mZnEXHUYacm9a1nGvd8jDi2e9a2YyQJUigrM7zfKcdy29rX64mfIS-I3COJHu4cFaZMtVjXjgXoswWSwQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="18" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 18
+https://3.bp.blogspot.com/5C4eVkTE_cJ58FDObhJLeS6y4rB26W2wh4G5mU0pxpV53lqod0mVQLtlsral3a1QX9SbisQpfJWHB3k9Hp1GFkpm2zBIdB3DceaIUKNVFn4e5z4toHX6oF-_rAYpEiabfO_M9cc7_w=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="19" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 19
+https://3.bp.blogspot.com/yXY0Qczrc3oTGJaKINwd53g9hEJPOkGq92dWPIqZuQz659h9FcKRzkAIV_Oa34u1h7lKYHy9E_T-S2HITfFbbbAIVAoOpt0WTjpRS1kG7rm3GTJZA1hKGkCj_eA6567TVnLw47YNZA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="20" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 20
+https://3.bp.blogspot.com/6IGrOXXQQN5B_amlZ-5JXmDutL1swEMt1KD3h4th5rMm11wGKrJ0N0UGa4tlF1DN4uwEooIe2waJE0ipBsyiuoLQeTZ8yDEDa5gy4kan7jH6zxchuk5GnuyScUe9w_3Zu5-1Lafi6w=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="1" tvg-episode="21" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vTWQCT268zjxWYpF0igCGMhhwxp.jpg" group-title="Paramount+", Episódio 21
+https://3.bp.blogspot.com/GY6_XKyjrV2nICKx4mJ270V7nBQPLvdC8pp9UYzQDAkQPkn1Sf5rGeCVRITEyI9p_1UYZi91aobRZ3uXaeThZX8cOZhxa-lT-o4ggy_W8OQMkFIKE4fKnmQYbQZV1VNh58BtCL-bqQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="1" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 01
+https://3.bp.blogspot.com/TFNgFlPbNETCip4Rl5wlGNp3uIGulbUZfL8OYtXVSS-TJ6Vkv84YgyV1YpC_kM4hWvVEGXcvoHZZJRF5Vn6pmREIGwgGLrtX4El1jyVjdRl5rLmryVIy7arcNSU9laeVNC8DJsdRpw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="2" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 02
+https://3.bp.blogspot.com/Rf1zeqPHzHg-e7kKZbf0DhhF9Gf6ueaFA_9Vu_LKIy3wft7aioBUST68ncIQDg_YObbMObkbwcMIvqijChmIG3rMFiglXtlTvKWfSF1mRCCGNOY0fu2EEcUb7n1TQZtOOvw9la-z1Q=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="3" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 03
+https://3.bp.blogspot.com/_xrj34pk5xeC0NZU2GQCjbe9MfvS0rIv_O6f94ldMqYCsfqYmVgsTOF2-ixeiaJO2bnpK5mChGqCjPgid4qQDn6OihXju-3ku_s-T5qKDLKyj2NS6YYfZ3tuLIfqYCStvKA8wr0JjA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="4" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 04
+https://3.bp.blogspot.com/bsHiSDWbVuPvOna9qM3AJy3epXnayC0YsaHAkMMbOfkxcgBZH2AYEjU6zQrIfHu6dvFf94Kweo1n7eZwQ-SUTKZ7mpHwrDQqGK5W-dmq-9hT9pOwI42U4Fi27WqXem2IcSEuTSafEQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="5" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 05
+https://3.bp.blogspot.com/WVv7BoZqNH5FM9jrHXUjxo6CWjsIQoN2zoyctnkcI2yWpvN__HtEVmRGE8pQApMl0zxtmLwAUeYG2MXzuzDvoqfzpH26LuXLLy_4Uf9W_-VniOu4SkVHDmDgFCtYjv2x1I_7g_aSrw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="6" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 06
+https://3.bp.blogspot.com/_0GzWTUtyNTltPxrnt_2uCqa4odc1hU77HbL3UaykYmkJEAw_Ldsx8f4n-B58RoFL0z25M4fK0hxnuFZY12mY0ly_MmoiJNiuuhlxFcTj_j1EGIxcOLAwNRZD_8l0-6I-FdrGzmqxQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="7" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 07
+https://3.bp.blogspot.com/qfqbgyV_jiGTtqM4uzcbf4UkMKZ3XHo4m4pRL-fk0nBQNyrwFzV8LQe7_nojfzZh9VlbHE7snrAEB2-rSl5yePWvfKsAT9rjaTMHoaGQ9iRTxTMy3EGSJbuxSMleUfU1ySAV-8NfKA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="8" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 08
+https://3.bp.blogspot.com/oS4IoK4tAoi9PA0BfTpbV34Ftxo4KmJq6IL2gPrQF2mRAHMWb7Dqy96nGPix6o4WXdHJ8R3XcLgLSh0V5Kv9lZkB4NS76xBiKS514mP5nK5opAt6H7Z49R1kYUWyjfGc8aYmnq0Nsg=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="9" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 09
+https://3.bp.blogspot.com/g8g91zgImTnq9H7DpjOvcrJSYSZv9BAzdxlFeGlRjhj67eOBe3GMgiBILWoOP93G0aDVREIFRFDLPGqwa4pkJ_gqjilobit9LN8FNhha6aoIBs1qWZYEmt49EjFNh1jdYubMtmExew=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="10" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 10
+https://3.bp.blogspot.com/cues4N__pTcFtTgqKtOwG7YhHLB_VznLSNhzWv6mQVdhM7HmkBjK-7MhfEUekfhUZ1bA69XWe715QFRsww9kV6_40p4vj4rQ0Z2YJVvUqp-xhGK-Ad1rCJ5S59SWtk_EAhFEE9-R8Q=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="11" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 11
+https://3.bp.blogspot.com/SqsFtZNBHQDhC8nBvznHBPA1SOuWj8tlxBe1JE6tlUe6F_GjT45nj_ofPC2cNcHs1GrfScvl2KUgqNPCX2Ug5t1yxGKQr1t-vlY6EKqpaUh4F-7Sm680w5BQ5Co8B57ShpI-WmugJA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="12" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 12
+https://3.bp.blogspot.com/Ab6Jb1x9mFcj9aQbhrrQo06tLuwNhz7OiQ8LFrtDFYWmTxIRvbhao1IO5uvd6dNaaxl0uCVEN3QWB_sQ7zG1KEXFisrzMy9uBESXyDlx6evunGpNfW0Kh44fjeieWqz9UELxcl_Iww=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="13" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 13
+https://3.bp.blogspot.com/yhY8QHevyGmBuBdezVlI2NtlG5Kv1p0JWYoPbfmMr8MuoyhP2eNKDcy5IVGS8zKUxz3Ne31JwYeaE5E-OZtPj7onmg-y2HEeayyPuZg_1r2INMqQBC1BVFQAZTO_QVRqY_acZtvF_g=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="14" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 14
+https://3.bp.blogspot.com/fqT7bgpi_dNw4MufIzSPvyhihEe-cWB3MoY2AXkY-dQ7qoSCt_Ss2F9orOtSEfkhH-26U0X8sEZByGkZDWYf-44hJfvuRIpAqPG7Cp9ttV3lJJoNG-aSxGTXlYJpcMj6UAenug7DMw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="15" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 15
+https://3.bp.blogspot.com/c0JHfwZR3wXEj47M5gD6A28TjhVsVk0WxckOgHlK1aeVUFrOm_h2iroR6EF0oa71mpuYF-TR-3aZBHxZ-S1iDXfZkVd5bqlUHfen7z0nhuCxvYzJijZAWvRrFGXwDGUBtEXcvSYAkw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="16" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 16
+https://3.bp.blogspot.com/133vHJuuWtdyNGu8MrMJ_djiMs0xtMY7sB-GOhRSQJ3HibMevh88w7RllrlFwvwYFIZwhK_Z-ornWxFTDH0Xq8aC4qRQF6D0lbV0Eow5oBztbOtkFBF8B-82PBa_yLYoVK123tzTNA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="17" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 17
+https://3.bp.blogspot.com/RlH3wgflNvyERu46Kfi7H7vZxQmwKY62kiTxH0rV45-YruYBfMjHdxkpUSNiRLT_8WGAWFkEK7Fn3LvrA7kK68rp95u2t68ljxJrSrvCpUCQ0wOCC_vS_m5b8VXpketAqxfQvUNkMA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="18" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 18
+https://3.bp.blogspot.com/EEthp6vmAu49AtNYM3hXgHfjmSKKeOxEbZQawdMT-QSWx8kImfDofurNNvZhUQ_leZHfrdBfin0Qw6rb1CwJMhKWFxU1Im-sTD7JzgMKMN5KCTAY5PC6UWJ03dMZd2AcFBQbm1jscA=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="19" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 19
+https://3.bp.blogspot.com/s0SYWRIOFzWeHNGwTX-2oiQFUd6806lr6suTxjBWKeIxGaPjpB5nhjAMQ9i5DdJ_aQeWHbu27v6RrEtbjWRkLZ3NuNg4MIliLhMSzDdgOblLD7lg-Ll5aiJduB5eAYyuOZeYicYeEQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="20" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 20
+https://3.bp.blogspot.com/wzaaKC7xdYK3IP3B-maQYentuaOrm2ZwoyHI1oIlOicwTaXx_2YSaf0pqpC0umHu98OzidekGWWnsckCUClPIioWUNA6VHda9kJxFHqx0aSxzgq9QDTfQSwLOG0z-ibne8YdNrgyqQ=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="2" tvg-episode="21" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/CKfHcDXOPT0mVpVkzJ4Q9xxet7.jpg" group-title="Paramount+", Episódio 21
+https://3.bp.blogspot.com/_FeNW430nwfknBk_gElXLdivTL08MQn1gNrec37I3HkQsNr18QvyCpNccm6qInSdamdSEj3Rx8amikEayGLYnAEhgaeb8kzSESaFek0iPAzOQeiyZLXJ-DjzoKIbax12VXO_E4LKyw=m22
+#EXTINF:-1 tvg-type="serie" serie-title="A Boa Vizinhança" tvg-serie="ABoaVizinhanca-1" tvg-season="3" tvg-episode="22" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/h2uTVaYoCIUVyvpuQcYCJqCvYiO.jpg" group-title="Paramount+", Episódio 22
+https://3.bp.blogspot.com/YRakCWInPn6IAVrUz21XlmyN-XB09TNrCoZ1QmwqZGc4IhsnIYqGRPIkMeefsiAh9bSILJP9TLO1iYLYX1lUa3DwdZ6VYjqzipMYbz8ldEmuIt59TMV0XW1PrUA3ViuyQ7NISKuBHA=m22
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/n9EIRKUY8G0jHqgreYIueWeqwMW.jpg", O Pior Vizinho do Mundo
+https://3.bp.blogspot.com/oey7fdEA6P6noKcseY96zbS2iNVmrRN9DOMl53NOwA2K9dYHzM3HUmtzxK0pIWQnpIWvjygKUnwizZ16JLJXCIoXMq7XAE4GGaZVrc0pQH-ygalMDvRnHX8QS07gurrSZBqqrQMl=m37
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg", Alerta Máximo
+https://3.bp.blogspot.com/4eJkWNhc39fYiud9mqB6zrPLRro-4PrpnhiZoNGkoHaRiW6s95yy309TH4wGMzIBaszndRumXxoy0w1oTyksO_yIEZ7jLG4PnOe0mO4TEYtjBm9mCWNCLxOYEy2JfwfABZ_3yWnx=m37
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg", M3GAN
+https://3.bp.blogspot.com/2JTLuojSpBmuiQaPU4UULFZldLlxi_EuNjGKvpnzs4LK-Hssw1ZhzQRmWuIkDOAkZtczF359pmzeP3LZxKH-2UntIopN5YBaGC9uOJ179s4VEqYgDrSaSxh64h3bGmBHuZhooU4r=m37
+#EXTINF:-1 tvg-type="movie" group-title="Em Cartaz" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg", Na Sua Casa ou na Minha?
+https://3.bp.blogspot.com/hezNbtoLX0tjqcEMzAm1oBjhrOr5mHkHhtcB1KlSKUAkUus3FLnYF-m32VqtuS1kePodL24yN8ORIZZ4ilGNKdQsBqJZalfZSrhtcMsC2f1UFGdoQk7DZv3_Tc4x5_fI7O4IZKyt=m37
