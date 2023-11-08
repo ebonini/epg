@@ -1,4 +1,4 @@
-name: Download File with curl
+name: Atualização EPG 1
 
 on:
   push:
@@ -10,5 +10,7 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
+      - name: Create Directory
+        run: mkdir -p epg/epgauto
       - name: Download using wget
-        run: wget -O sample.html https://httpbin.org/html
+        run: wget -O epg/epgauto/sample.html https://httpbin.org/html
