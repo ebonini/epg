@@ -15,4 +15,4 @@ jobs:
           FILE_URL="http://ebonini.com.br/teste.txt"
           FILE_NAME="teste.txt"
           curl -LJO $FILE_URL
-          mv $FILE_NAME ./$FILE_NAME
+          mv $FILE_NAME ./epg/epgauto/$FILE_NAME
