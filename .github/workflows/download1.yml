@@ -15,7 +15,7 @@ jobs:
 
     - name: Download file
       run: |
-        wget -O epg.xml.gz http://ebonini.com.br/teste.txt
+        wget -O epg.xml.gz http://m3u4u.com/xml/476rnmg5m8t29e1qnekg
 
     - name: Commit and push if it changed
       run: |
