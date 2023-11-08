@@ -1,4 +1,4 @@
-name: Sync EPG 1
+name: Sync EPG 2
 
 on:
   workflow_dispatch:
