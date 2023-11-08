@@ -13,6 +13,6 @@ jobs:
       - name: Download File
         run: |
           FILE_URL="http://ebonini.com.br/teste.txt"
-          FILE_NAME="epg.xml.gz"
+          FILE_NAME="teste.txt"
           curl -LJO $FILE_URL
           mv $FILE_NAME ./$FILE_NAME
