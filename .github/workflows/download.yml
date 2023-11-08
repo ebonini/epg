@@ -16,4 +16,4 @@ jobs:
           FILE_NAME="teste.txt"
           curl -LJO $FILE_URL
           mkdir -p ./epgauto/
-          cp $FILE_NAME ./epgauto/$FILE_NAME
+          mv $FILE_NAME ./epgauto/$FILE_NAME
