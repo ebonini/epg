@@ -1,21 +1,25 @@
-name: Atualização EPG 1
+name: Download and Store File
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
-  download_and_move:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Download File
-        run: curl -O https://ebonini.com.br/teste.txt
+    - name: Download file
+      run: |
+        wget https://ebonini.com.br/teste.txt -O teste.txt
 
-      - name: Move File to Root
-        run: mv teste.txt ${{ github.workspace }}/epg/
-
+    - name: Commit and push if it changed
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Automated download at $timestamp" || exit 0
+        git push
