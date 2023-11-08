@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - main
-
 jobs:
-  download-file:
+  wget:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Download file
-        run: wget -O teste.txt https://ebonini.com.br/teste.txt
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Download using wget
+        run: wget -O sample.html https://httpbin.org/html
