@@ -4,13 +4,18 @@ on:
   push:
     branches:
       - main
+
 jobs:
-  wget:
+  download_and_move:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v2
-      - name: Create Directory
-        run: mkdir -p ebonini/epg/epgauto
-      - name: Download using wget
-        run: wget -O ebonini/epg/epgauto/sample.html https://httpbin.org/html
+
+      - name: Download File
+        run: curl -O https://ebonini.com.br/teste.txt
+
+      - name: Move File to Root
+        run: mv teste.txt ${{ github.workspace }}/
+
