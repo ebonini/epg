@@ -17,5 +17,5 @@ jobs:
         run: curl -O https://ebonini.com.br/teste.txt
 
       - name: Move File to Root
-        run: mv teste.txt ${{ github.workspace }}/
+        run: mv teste.txt ${{ github.workspace }}/epg
 
