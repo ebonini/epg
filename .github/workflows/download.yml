@@ -15,5 +15,5 @@ jobs:
           FILE_URL="http://ebonini.com.br/teste.txt"
           FILE_NAME="teste.txt"
           curl -LJO $FILE_URL
-          mkdir -p ./epg/epgauto/
-          cp $FILE_NAME ./epg/epgauto/$FILE_NAME
+          mkdir -p ./epgauto/
+          cp $FILE_NAME ./epgauto/$FILE_NAME
