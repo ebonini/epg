@@ -1,4 +1,4 @@
-name: Download and Store File
+name: Sync EPG 1
 
 on:
   workflow_dispatch:
