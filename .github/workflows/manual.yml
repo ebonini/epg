@@ -1,0 +1,9 @@
+name: Download File Action
+  # You may pin to the exact commit or the version.
+  # uses: Minionguyjpro/Download-File-Action@cb86d3ecd4ed8bc49f63cf4b33d957c50fcb5ba0
+uses: Minionguyjpro/Download-File-Action@v1
+  with:
+      # URL to download file from
+      url: http://m3u4u.com/epg/476rnmg5m8t29e1qnekg
+      # Path to store output file
+      path: epg/epg.xml.gz
