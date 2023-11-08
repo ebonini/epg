@@ -15,4 +15,4 @@ jobs:
           FILE_URL="http://m3u4u.com/epg/476rnmg5m8t29e1qnekg"
           FILE_NAME="epg.xml.gz"
           curl -LJO $FILE_URL
-          mv $FILE_NAME ./path/to/save/$FILE_NAME
+          mv $FILE_NAME .ebonini/epg/$FILE_NAME
