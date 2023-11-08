@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Download file
-        run: curl -L -o ${{ github.workspace }}/teste.xml.gz https://ebonini.com.br/teste.txt
+        run: wget -O teste.xml.gz https://ebonini.com.br/teste.txt
