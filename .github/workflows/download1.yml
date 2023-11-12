@@ -3,7 +3,7 @@ name: Sync EPG 1
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */3 * *'
+    - cron: '0 0 */2 * *'
 
 jobs:
   build:
