@@ -1,0 +1,27 @@
+name: Sync EPG 3
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 */2 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download file
+      run: |
+        wget -O epg3.xml.gz http://m3u4u.com/epg/jwmzn1r5qgcj6k8py721
+
+    - name: Commit and push if it changed
+      run: |
+        git config user.name "Automated"
+        git config user.email "eduardo@ebonini.com.br"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Automated download at $timestamp" || exit 0
+        git push
