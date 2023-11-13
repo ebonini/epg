@@ -20,7 +20,7 @@ jobs:
     - name: Commit and push if it changed
       run: |
         git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
+        git config user.email "eduardo@ebonini.com.br"
         git add -A
         timestamp=$(date -u)
         git commit -m "Automated download at $timestamp" || exit 0
