@@ -15,7 +15,7 @@ jobs:
 
     - name: Download file
       run: |
-        wget -O epg2.xml.gz http://m3u4u.com/epg/4z2xnjwvegfdpze9yv15
+        wget -O epg2.xml.gz http://m3u4u.com/epg/68m7n44xg8cjgxxqn1ge
 
     - name: Commit and push if it changed
       run: |
