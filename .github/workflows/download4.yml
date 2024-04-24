@@ -3,7 +3,8 @@ name: Sync EPG 4
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 */2 * *'
+    - cron: '0 1 * * *'    # At 01:00 every day UTC
+    - cron: '0 13 * * *'  # At 13:00 every day UTC
 
 jobs:
   build:
